@@ -1,0 +1,6 @@
+ID,Name,Age,Type,subject of study,GPA,position,salary
+,,,,,,,
+1.0,sela,24.0,<class 'Person.Person'>,N/A,N/A,N/A,N/A
+234.0,nufar,45.0,<class 'Employee.Employee'>,N/A,N/A,mother,10000
+5123.0,rotem,41.0,<class 'student.Student'>,princple,89,N/A,N/A
+854758.0,tomy,152431.0,<class 'Person.Person'>,N/A,N/A,N/A,N/A
